@@ -9,7 +9,7 @@
 
 ### 📈 Some Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" />
+  <img width="320" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroex3c&layout=donut-vertical"/>
 </a>
 
 ---
