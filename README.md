@@ -1,3 +1,4 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=zeroex3c.seanho96)
 [![Github](https://img.shields.io/github/followers/zeroex3c?label=Follow&style=social)](https://github.com/seanho96)
 
 ### Some Things About Me: 👋
