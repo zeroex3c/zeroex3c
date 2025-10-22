@@ -28,9 +28,16 @@
 
 ---
 
-### ⏱️ WakaTime Stats
+<h3 align="center">⏱️ WakaTime Stats</h3>
 
-<!--START_SECTION:waka-->
+<p align="center">
+  <a href="https://wakatime.com/@zeroex3c">
+    <img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=zeroex3c&layout=compact&langs_count=20&theme=tokyonight&range=last_year"
+      alt="WakaTime Stats"
+    />
+  </a>
+</p>
 
 ```rust
 From: 06 May 2024 - To: 22 October 2025
