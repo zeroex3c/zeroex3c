@@ -1,16 +1,47 @@
-name: Update stats
+name: Waka Readme
 
 on:
-  schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+  # 手动触发
   workflow_dispatch:
+  # 每天 12 AM UTC 自动执行（即马来西亚时间早上 8 点）
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master  # 保留原样
         with:
+          # 必填项
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # 可选项（推荐配置）
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          ### Meta ###
+          API_BASE_URL: https://wakatime.com/api
+          REPOSITORY: zeroex3c/zeroex3c
+
+          ### Content ###
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: "->"
+          CODE_LANG: rust
+          TIME_RANGE: all_time
+          LANG_COUNT: 8
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML
+
+          ### Commit ###
+          COMMIT_MESSAGE: "chore: update WakaTime stats in README"
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: Simon
+          AUTHOR_EMAIL: your@email.com
