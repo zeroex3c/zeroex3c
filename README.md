@@ -9,7 +9,7 @@
 
 ### 📈 Some Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="320" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zeroex3c"/>
+  <img width="640" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zeroex3c"/>
 </a>
 
 ---
