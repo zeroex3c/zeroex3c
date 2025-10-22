@@ -1,16 +1,28 @@
-## Hi there 👋
+![](https://visitor-badge.laobi.icu/badge?page_id=seanho96.seanho96)
+[![Github](https://img.shields.io/github/followers/seanho96?label=Follow&style=social)](https://github.com/seanho96)
 
-<!--
-**zeroex3c/zeroex3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Some Things About Me: 👋
+- 🌱 Currently learning about Blockchain & Vue
+- :musical_note: Always listening to lofi or chillhop beats
+- :zap: Fun facts: ESFJ. Speaks English, Malay, Mandarin and Hokkien.
+- :book: Currently reading: The Wisdom Of Sundays by Oprah Winfrey
 
-Here are some ideas to get you started:
+### This week I spent my time on <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="32">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--START_SECTION:waka-->
+
+```txt
+Python     2 hrs 37 mins   ██████████████████▓░░░░░░   74.27 %
+Bash       29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+Markdown   19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+YAML       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+```
+
+<!--END_SECTION:waka-->
+
+### Some stats 📊
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanho96&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seanho96&show_icons=true&theme=graywhite)-->
