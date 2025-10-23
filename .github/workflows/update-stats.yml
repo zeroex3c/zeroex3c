@@ -3,8 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "* * * * *"  # 理论上每分钟执行一次（实际大约每2~5分钟）
-    #- cron: "0 * * * *"  # 每小时执行一次 (UTC)，即马来西亚时间每小时的第8分钟
+    - cron: "0 * * * *"  # 每小时执行一次 (UTC)，即马来西亚时间每小时的第8分钟
 
 jobs:
   update-readme:
