@@ -7,16 +7,15 @@
   
 ## 💻 Coding Overview
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=graywhite&hide_border=true" width="100%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=graywhite"
+    height="180px"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=zeroex3c&theme=graywhite"
+    height="180px"
+  />
 </div>
-
-<hr style="height:0.5px;border:none;border-top:0.5px solid #dcdcdc;width:96%;margin:20px auto;" />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zeroex3c&theme=graywhite&hide_border=true" width="100%" />
-</div>
-
-
 
 ```rust
 Total Time: 716 hrs 18 mins
