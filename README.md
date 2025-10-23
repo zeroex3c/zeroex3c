@@ -1,6 +1,6 @@
 <div style="display:grid; justify-content:center;">
 <h2 align="center">👋 Some Things About Me</h2>
-<p align="center" style="font-size:16px;">
+<p align="left" style="font-size:16px;">
   👨‍💻 Self-taught developer <br />
   🔍 Passionate about web development <br />
   🎬 Favorite TV series: <i>Mr. Robot</i> <br />
@@ -9,7 +9,7 @@
 </p>
 </div>
 
----
+<br>
 
 <h2 align="center">💻 Coding Overview</h2>
 <div style="display:flex; gap:16px;">
