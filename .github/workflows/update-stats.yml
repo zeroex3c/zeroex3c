@@ -30,10 +30,10 @@ jobs:
           BLOCKS: "->"
           CODE_LANG: rust
           TIME_RANGE: all_time
-          LANG_COUNT: 8
+          LANG_COUNT: 20
           SHOW_TIME: true
           SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
+          SHOW_MASKED_TIME: true
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML
 
