@@ -8,9 +8,7 @@
 ---
 
 ### 📈 Some Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="480" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zeroex3c"/>
-</a>
+
 
 ---
 
@@ -40,8 +38,6 @@
 </p>
 
 ```rust
-From: 06 May 2024 - To: 22 October 2025
-
 Total Time: 716 hrs 18 mins
 
 CSS                        310 hrs 58 mins >>>>>>>>>>>--------------   43.32 %
