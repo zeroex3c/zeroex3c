@@ -1,12 +1,11 @@
 <h2 align="center">💻 Overview</h2>
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=sunset-gradient&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=graywhite&hide_border=true"
     width="49%"
   />
   <img
-    src="https://streak-stats.demolab.com?user=zeroex3c&theme=sunset-gradient"
-    width="49%"
+    src="https://git-hub-streak-stats.vercel.app?user=&theme=sunset-gradient&hide_border=true&border_radius=16"
   />
 </p>
 
