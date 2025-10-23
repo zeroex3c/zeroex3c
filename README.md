@@ -6,10 +6,17 @@
 - ⚡ Fun fact: Besides learning web development, I'm also diving into cybersecurity
   
 ## 💻 Coding Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=graywhite" />
-  <img src="https://streak-stats.demolab.com/?user=zeroex3c&theme=graywhite" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=graywhite&hide_border=true" width="100%" />
+</div>
+
+<hr style="height:0.5px;border:none;border-top:0.5px solid #dcdcdc;width:96%;margin:20px auto;" />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zeroex3c&theme=graywhite&hide_border=true" width="100%" />
+</div>
+
+
 
 ```rust
 Total Time: 716 hrs 18 mins
