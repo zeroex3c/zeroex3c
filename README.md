@@ -13,19 +13,17 @@
 
 <h2 align="center">💻 Coding Overview</h2>
 <div style="display:flex; gap:16px;">
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=graywhite&hide_border=true&custom_title=Coding+Overview&line_height=24&rank_icon=github"
-    width=100%"
-    style="border:0.5px solid silver; border-radius:4px;"
-  />
-</p>
-<p align="center">
-  <img
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=graywhite&hide_border=true&custom_title=Coding+Overview&line_height=24&rank_icon=github"
+      width=100%"
+     style="border:0.5px solid silver; border-radius:4px;"
+    />
+   <img
     src="https://streak-stats.demolab.com?user=zeroex3c&theme=graywhite"
     width="100%"
-  />
-</p>
+    />
+  </p>
 </div>
 
 <h2 align="center">📈 Language & Activity</h2>
