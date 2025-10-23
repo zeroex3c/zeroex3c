@@ -7,11 +7,6 @@
 
 ---
 
-### 📈 Some Stats
-
-
----
-
 ### 🧰 Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -26,13 +21,17 @@
 
 ---
 
-<h3 align="center">⏱️ WakaTime Stats</h3>
-
 <p align="center">
   <a href="https://wakatime.com/@zeroex3c">
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=zeroex3c&layout=compact&langs_count=20&theme=tokyonight&range=last_year"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=zeroex3c&layout=compact&langs_count=12&range=last_year&bg_color=ffffff&title_color=000000&text_color=000000&border_color=e4e2e2"
       alt="WakaTime Stats"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroex3c&layout=donut-vertical&bg_color=ffffff&title_color=000000&text_color=000000&border_color=e4e2e2"
+      alt="Top Languages"
     />
   </a>
 </p>
