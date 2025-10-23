@@ -13,15 +13,18 @@
 
 <h2 align="center">💻 Coding Overview</h2>
 <p align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=graywhite&hide_border=true&custom_title=Coding+Overview&line_height=24&rank_icon=github"
-      width=49%"
-    />
-   <img
-    src="https://streak-stats.demolab.com?user=zeroex3c&theme=graywhite"
-    width="49%"
-    />
-  </p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=graywhite&hide_border=true"
+    width="100%"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=zeroex3c&theme=graywhite&hide_border=true"
+    width="100%"
+  />
+</p>
+
 
 <br>
 
