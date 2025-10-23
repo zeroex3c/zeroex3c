@@ -12,7 +12,15 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master  # 保留原样
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README last update date
+        run: |
+          sed -i "s/^Last Update:.*/Last Update: $(date +'%Y-%m-%d')/" README.md
+
+      - name: Generate WakaTime metrics
+        uses: athul/waka-readme@master
         with:
           # 必填项
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
