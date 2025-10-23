@@ -1,11 +1,9 @@
 name: Waka Readme
 
 on:
-  # 手动触发
   workflow_dispatch:
-  # 每天 12 AM UTC 自动执行（即马来西亚时间早上 8 点）
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"  # 每小时执行一次 (UTC)，即马来西亚时间每小时的第8分钟
 
 jobs:
   update-readme:
@@ -15,17 +13,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README last update date
+      - name: Update README last update date and time
         run: |
-          sed -i "s/^Last Update:.*/Last Update: $(date +'%Y-%m-%d')/" README.md
+          # 显示马来西亚时间 (UTC+8)，包含时分秒
+          sed -i "s/^Last Update:.*/Last Update: $(TZ='Asia/Kuala_Lumpur' date +'%Y-%m-%d %H:%M:%S MYT')/" README.md
 
       - name: Generate WakaTime metrics
         uses: athul/waka-readme@master
         with:
-          # 必填项
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-          # 可选项（推荐配置）
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
           ### Meta ###
