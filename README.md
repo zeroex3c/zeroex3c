@@ -28,12 +28,6 @@
       alt="WakaTime Stats"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroex3c&layout=donut-vertical&bg_color=ffffff&title_color=000000&text_color=000000&border_color=e4e2e2"
-      alt="Top Languages"
-    />
-  </a>
 </p>
 
 ```rust
