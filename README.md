@@ -5,7 +5,7 @@
     width="49%"
   />
   <img
-    src="https://git-hub-streak-stats.vercel.app?user=&theme=sunset-gradient&hide_border=true&border_radius=16"
+    src="https://git-hub-streak-stats.vercel.app?user=&theme=graywhite&hide_border=true&border_radius=16"
   />
 </p>
 
