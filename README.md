@@ -1,12 +1,14 @@
 <h4 align="center">👋 Some Things About Me</h4>
 
-<p align="center">
+<div style="justify-content:center; display:flex;">
+<p align="left">
   👨‍💻 Self-taught developer <br />
   🔍 Passionate about web development <br />
   🎬 Favorite TV series: <i>Mr. Robot</i> <br />
   🎵 Always listening to lofi and chillhop beats <br />
   ⚡ Fun fact: Also diving into cybersecurity
 </p>
+</div>
 
 ---
 
@@ -14,28 +16,23 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=graywhite&hide_border=true&custom_title=Coding+Overview&line_height=24&rank_icon=github"
-    width=49%"
+    width=100%"
     style="border:0.5px solid silver; border-radius:4px;"
   />
   <img
     src="https://streak-stats.demolab.com?user=zeroex3c&theme=graywhite"
-    width="49%"
+    width="100%"
     style="border:none;"
   />
 </p>
 
----
 
 <h4 align="center">📈 Language & Activity</h4>
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/wakatime?username=zeroex3c&layout=compact&langs_count=12&range=all_time&bg_color=ffffff&title_color=000000&text_color=000000&border_color=e4e2e2&custom_title=WakaTime+Activity"
     alt="WakaTime Stats"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroex3c&layout=donut-vertical&bg_color=ffffff&title_color=000000&text_color=000000&border_color=e4e2e2"
-    width="49%"
+    width="100%"
   />
 </p>
 
