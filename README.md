@@ -27,6 +27,7 @@
 <h2 align="center">📈 Activity</h2>
 
 ``` rust
+
 Total Time: 0 hrs 00 mins
 
 CSS                        0 hrs 00 mins -------------------------   00.00 %
@@ -36,6 +37,7 @@ Python                     0 hrs 00 mins -------------------------   00.00 %
 Text                       0 hrs 00 mins -------------------------   00.00 %
 Markdown                   0 hrs 00 mins -------------------------   00.00 %
 EJS                        0 hrs 00 mins -------------------------   00.00 %
+
 ```
 
 <br>
