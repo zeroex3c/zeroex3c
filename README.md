@@ -1,5 +1,4 @@
-<div style="display:grid; justify-content:center;">
-<h2 align="center">👋 Some Things About Me</h2>
+<h2 align="center">👋 About Me</h2>
 <p align="left" style="font-size:16px;">
   👨‍💻 Self-taught developer <br />
   🔍 Passionate about web development <br />
@@ -7,28 +6,25 @@
   🎵 Always listening to lofi and chillhop beats <br />
   ⚡ Fun fact: Also diving into cybersecurity
 </p>
-</div>
 
 <br>
 
-<h2 align="center">💻 Coding Overview</h2>
+<h2 align="center">💻 Overview</h2>
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=graywhite&hide_border=true"
-    width="100%"
+    width="49%"
   />
-</p>
-<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=zeroex3c&theme=graywhite&hide_border=true"
-    width="100%"
+    src="https://streak-stats.demolab.com?user=zeroex3c&theme=graywhite"
+    width="49%"
   />
 </p>
 
 
 <br>
 
-<h2 align="center">📈 Language & Activity</h2>
+<h2 align="center">📈 Activity</h2>
 
 ``` rust
 Total Time: 0 hrs 00 mins
@@ -44,7 +40,7 @@ EJS                        0 hrs 00 mins -------------------------   00.00 %
 
 <br>
 
-<h2 align="center">🧰 Languages and Tools</h2>
+<h2 align="center">🧰 Programming</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
