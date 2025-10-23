@@ -43,5 +43,5 @@ jobs:
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com
-          AUTHOR_NAME: Simon
-          AUTHOR_EMAIL: your@email.com
+          AUTHOR_NAME: Zero
+          AUTHOR_EMAIL: N/A
