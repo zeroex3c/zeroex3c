@@ -12,8 +12,7 @@
 <br>
 
 <h2 align="center">💻 Coding Overview</h2>
-<div style="display:flex; gap:16px;">
-  <p align="left">
+<p align="center">
     <img
       src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=graywhite&hide_border=true&custom_title=Coding+Overview&line_height=24&rank_icon=github"
       width=49%"
@@ -23,7 +22,8 @@
     width="49%"
     />
   </p>
-</div>
+
+<br>
 
 <h2 align="center">📈 Language & Activity</h2>
 
@@ -39,7 +39,7 @@ Markdown                   0 hrs 00 mins -------------------------   00.00 %
 EJS                        0 hrs 00 mins -------------------------   00.00 %
 ```
 
----
+<br>
 
 <h2 align="center">🧰 Languages and Tools</h2>
 <p align="center">
@@ -53,14 +53,14 @@ EJS                        0 hrs 00 mins -------------------------   00.00 %
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 </p>
 
----
+<br>
 
-<h2 align="center">🏆 Achievements</h2》
+<h2 align="center">🏆 Achievements</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeroex3c&theme=flat&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zeroex3c&theme=flat&margin-w=16&no-frame=true" />
 </p>
 
----
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeroex3c&style=flat-square&color=blue" alt="Profile Views" />
