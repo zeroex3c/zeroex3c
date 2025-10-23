@@ -1,6 +1,6 @@
 <div style="display:grid; justify-content:center;">
 <h2 align="left">👋 Some Things About Me</h2>
-<p align="left">
+<p align="left" style="font-size:16px;">
   👨‍💻 Self-taught developer <br />
   🔍 Passionate about web development <br />
   🎬 Favorite TV series: <i>Mr. Robot</i> <br />
@@ -16,26 +16,19 @@
   <p align="center">
     <img
       src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=graywhite&hide_border=true&custom_title=Coding+Overview&line_height=24&rank_icon=github"
-      width=100%"
+      width=49%"
      style="border:0.5px solid silver; border-radius:4px;"
     />
    <img
     src="https://streak-stats.demolab.com?user=zeroex3c&theme=graywhite"
-    width="100%"
+    width="49%"
     />
   </p>
 </div>
 
 <h2 align="center">📈 Language & Activity</h2>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=zeroex3c&layout=compact&langs_count=12&range=all_time&bg_color=ffffff&title_color=000000&text_color=000000&border_color=e4e2e2&custom_title=WakaTime+Activity"
-    alt="WakaTime Stats"
-    width="80%"
-  />
-</p>
 
-```rust
+``` rust
 Total Time: 0 hrs 00 mins
 
 CSS                        0 hrs 00 mins -------------------------   00.00 %
