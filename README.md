@@ -1,26 +1,28 @@
+<h2 align="center">💻 Overview</h2>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=sunset-gradient&hide_border=true"
+    width="49%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=zeroex3c&theme=sunset-gradient"
+    width="49%"
+  />
+</p>
+
+<br>
+
 <h2 align="center">👋 About Me</h2>
-<p align="left" style="font-size:16px;">
+
+```
+
   👨‍💻 Self-taught developer <br />
   🔍 Passionate about web development <br />
   🎬 Favorite TV series: <i>Mr. Robot</i> <br />
   🎵 Always listening to lofi and chillhop beats <br />
   ⚡ Fun fact: Also diving into cybersecurity
-</p>
 
-<br>
-
-<h2 align="center">💻 Overview</h2>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zeroex3c&show_icons=true&theme=graywhite&hide_border=true"
-    width="49%"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=zeroex3c&theme=graywhite"
-    width="49%"
-  />
-</p>
-
+```
 
 <br>
 
@@ -41,15 +43,16 @@ EJS                        0 hrs 00 mins -------------------------   00.00 %
 <br>
 
 <h2 align="center">🧰 Programming</h2>
+<br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>&nbsp;&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
 </p>
 
 <br>
